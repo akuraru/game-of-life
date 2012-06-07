@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.wakaleo.gameoflife</groupId>
+    <groupId>com.akuraru.gameoflife</groupId>
     <artifactId>gameoflife</artifactId>
     <version>0.9.53-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>gameoflife</name>
-    <url>https://github.com/wakaleo/game-of-life</url>
+    <url>https://github.com/akuraru/game-of-life</url>
     <properties>
         <build.number>SNAPSHOT</build.number>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -14,7 +14,7 @@
         <cobertura.version>2.5.1</cobertura.version>
         <!-- A workaround for a bug in PMD -->
         <targetJdk>1.6</targetJdk>
-        <github.account>wakaleo</github.account>
+        <github.account>akuraru</github.account>
         <thucydides.version>0.8.20</thucydides.version>
     </properties>
 
